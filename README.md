@@ -13,8 +13,9 @@ Este proyecto es una página web que consume la API de Pokédex, permitiéndote 
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](inserta_url_de_la_primera_imagen)
-![Captura de Pantalla 2](inserta_url_de_la_segunda_imagen)
+![Index](https://github.com/Idarugo/PokeApi/assets/79090168/11b9ce3f-67ab-42e3-a547-277e14e0d1bc)
+![Filtro](https://github.com/Idarugo/PokeApi/assets/79090168/a6441a13-5b5d-461f-b43c-0f01f1cda771)
+![Detalle Pokemon](https://github.com/Idarugo/PokeApi/assets/79090168/7edd7c3a-cb94-4e75-984f-e5c706535b15)
 
 ## Uso
 
