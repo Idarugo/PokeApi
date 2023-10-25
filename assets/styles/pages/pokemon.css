@@ -1,0 +1,88 @@
+@import '/../Pokedex/assets/styles/main.css';
+
+.main-pokemon{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.header-main-pokemon{
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    position: relative;
+}
+
+.number-pokemon{
+    color: var(--color-primary-hover);
+    font-size: 300px;
+    font-weight: 700;
+    left: 0;
+    position: absolute;
+    top: -70px;
+}
+
+.container-img-pokemon{
+    flex: 1;
+    order: 2;
+    padding: 25px 25px 25px 0;
+}
+
+.container-img-pokemon img{
+    width: 100%;
+}
+
+.container-info-pokemon{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    order: 1;
+}
+
+.container-info-pokemon h1{
+    font-size: 50px;
+    text-align: right;
+}
+
+.info-pokemon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.group-info p{
+    font-weight: 700;
+}
+
+/* Stats */
+.container-stats{
+    align-items: center;
+    display: flex;
+    gap: 50px;
+}
+
+.stats{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.stat-group{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+
+.stat-group span{
+    flex: 20%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.progress-bar{
+    background-color: var(--color-primary);
+    border-radius: 10px;
+    height: 30px;
+    width: 100%;
+}
